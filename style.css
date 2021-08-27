@@ -1,0 +1,26 @@
+.asd {
+    color: red;
+    font-family: Hina Mincho;
+    text-align: center;
+    line-height: 2;
+
+    
+}
+.asd:hover{
+    color:blue
+}
+.bp {
+    background-color: rgb(36, 116, 119);
+    height: 200px;
+    width: 100px;
+    align-content: center;
+    vertical-align: middle;
+    border: solid 5px black;
+    border-radius: 20px;
+}
+
+body {
+    align-content: center;
+    width: 800px;
+    background-color: darkblue;
+}
